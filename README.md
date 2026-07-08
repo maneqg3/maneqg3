@@ -67,7 +67,7 @@ Pipeline RAG em TypeScript. Os embeddings são gerados localmente com Transforme
 
 ![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=maneqg3&theme=tokyo-night)
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=maneqg3&no-frame=true&column=7&theme=tokyonight)
+![Troféus](https://github-profile-trophy-one-nu.vercel.app/?username=maneqg3&no-frame=true&column=7&theme=tokyonight)
 
 </div>
 
