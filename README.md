@@ -16,7 +16,7 @@
 
 Sou Analista de TI na Aboissa Commodity Brokers. Desenvolvo e mantenho os sistemas internos que suportam as operações: plataformas de aprendizado, ferramentas de compliance e automações com inteligência artificial.
 
-Foco em adoção de IA e automação para times não-técnicos, tornando ferramenta complexa utilizável no dia a dia. Estou cursando pós-graduação em IA/ML. Está em andamento, sem título concluído. Estudo pipelines RAG, LLMs self-hosted e orquestração com LangChain.
+Foco em adoção de IA e automação para times não-técnicos, tornando ferramenta complexa utilizável no dia a dia. Estou cursando pós-graduação em IA/ML. Está em andamento, Estudo pipelines RAG, LLMs self-hosted e orquestração com LangChain.
 
 Também cuido de infraestrutura de TI e segurança da informação: redes, servidores e a base que mantém tudo de pé.
 ## Stack
@@ -73,7 +73,7 @@ Pipeline RAG em TypeScript. Os embeddings são gerados localmente com Transforme
 
 ## Interesses
 
-Nas horas vagas mexo com eletrônica de RF e radar. Estou montando um array em fase para 10,5 GHz. Hobby de bancada, aprendo na prática.
+Nas horas vagas mexo com hardware e jogos de computador
 
 ## Contato
 
