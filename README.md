@@ -59,15 +59,14 @@ Pipeline RAG em TypeScript. Os embeddings são gerados localmente com Transforme
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats-lp2stlewd-maneqg3s-projects.vercel.app/api?username=maneqg3&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight)
+![Estatísticas](https://github-readme-stats-kohl-rho-42.vercel.app/api?username=maneqg3&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight)
 
-![Linguagens](https://github-readme-stats-lp2stlewd-maneqg3s-projects.vercel.app/api/top-langs/?username=maneqg3&layout=compact&hide_border=true&exclude_repo=g3uBlock&theme=tokyonight)
+![Linguagens](https://github-readme-stats-kohl-rho-42.vercel.app/api/top-langs/?username=maneqg3&layout=compact&hide_border=true&exclude_repo=g3uBlock&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=maneqg3&hide_border=true&theme=tokyonight)
 
 ![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=maneqg3&theme=tokyo-night)
 
-![Troféus](https://github-profile-trophy-one-nu.vercel.app/?username=maneqg3&no-frame=true&column=7&theme=tokyonight)
 
 </div>
 
